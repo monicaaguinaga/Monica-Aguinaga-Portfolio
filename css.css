@@ -102,10 +102,10 @@ body {
   box-shadow: 1px 1px 20px #a8a8a8;
   border: 10px solid white;
   margin-top: 15px;
-  
-
-
-
+}
+.mockup img {
+  width: 900px;
+  height: 815px;
 }
 #projects a {
   color: #818181;
