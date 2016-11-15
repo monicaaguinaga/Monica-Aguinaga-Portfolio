@@ -181,6 +181,7 @@ transition: all .1s ease-in-out;
   font-size: 1.6em;
   color: #EDEDED;
   transition: color 0.7s ease;
+  text-decoration: none;
 }
 
 .top a:hover {
